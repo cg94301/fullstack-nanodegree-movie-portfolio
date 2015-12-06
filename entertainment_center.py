@@ -1,6 +1,7 @@
 import fresh_tomatoes
 import media
 
+# Create objects of type Movie from Movie class to store movie data
 toy_story = media.Movie("Toy Story",
                         "A story of a boy and his toys that come to life",
                         "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
@@ -31,7 +32,8 @@ monkeys = media.Movie("12 Monkeys",
                       "http://t1.gstatic.com/images?q=tbn:ANd9GcSVWaLbGRL7p1T1OR767o6HU_J6wZd2nqzZFG7Pp7VtxCF8fgQH",
                       "https://www.youtube.com/watch?v=15s4Y9ffW_o")
 
-
+# List of movies
 movies = [toy_story, avatar, martian, ted, argo, monkeys]
 
+# Generate HTML page to display portfolio
 fresh_tomatoes.open_movies_page(movies)
