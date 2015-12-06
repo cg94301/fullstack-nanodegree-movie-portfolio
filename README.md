@@ -10,7 +10,7 @@ Clone this repository onto your machine and open the movie trailer website:
     $> python entertainment_center.py
 ```
 
-You should see a collection of movie trailers. 
+You should see a collection of movie trailers. This requires Python 2.7.
 
 ### Information on Movie
 Click on the movie poster to start the movie trailer.
