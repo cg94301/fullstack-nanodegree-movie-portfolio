@@ -10,11 +10,11 @@ Clone this repository onto your machine and open the movie trailer website:
     $> python entertainment_center.py
 ```
 
-You should see a collection of moview trailer. 
+You should see a collection of movie trailers. 
 
-### Information on Moview
+### Information on Movie
 Click on the movie poster to start the movie trailer.
 
 ### Movie Portfolio Site
 
-![movies](moview.png)
+![martian trailer](martian.png)
